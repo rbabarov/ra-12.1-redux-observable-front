@@ -1,0 +1,18 @@
+.item {
+  font-size: 1.3rem;
+}
+
+.item__input {
+ border: 2px solid #000;
+ font-size: inherit;
+ padding: .3em;
+ width: 50%;
+}
+
+.item__text,
+.item__error,
+.item__list,
+.item__noresult,
+.item__searching {
+  margin-top: .5em;
+}
